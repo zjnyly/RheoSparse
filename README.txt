@@ -1,4 +1,3 @@
-
 # RheoSparse: Exploring Finer-Grained Structured Sparsity for Small Language Models
 
 This repo contains code and artifacts for **RheoSparse** (camera-ready release):
