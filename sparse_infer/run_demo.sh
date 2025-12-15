@@ -1,0 +1,1 @@
+python qwen_demo.py --model ../EXPERIMENTS/qwen2.5/qwen2.5/ --sparse_model sparse_weights_32_passed.npy --sparse_path ../EXPERIMENTS/qwen2.5/qwen2.5-3264-searched/32-gene_info.jsonl --base_sparsity 32 --num_layers 28 
