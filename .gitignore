@@ -2,3 +2,4 @@ EXPERIMENTS/llama-1b
 EXPERIMENTS/opt-1.3b
 EXPERIMENTS/qwen2.5
 sparse_infer/sparse_weights_32_passed.npy
+samples_16k.pt
